@@ -29,3 +29,8 @@ Após receber a mensagem de *Servidor Iniciado*, acesse o link exibido no termin
     http://localhost:8080
 `
 
+## Features
+
+* Router and Router Group
+    >Feature criada com o intuido de lidar com as rotas dentro do Servidor Deno, além de poder agrupar as rotas usando o .group() que também recebe como parametro um prefixo para as rotas desse grupo.
+
