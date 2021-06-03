@@ -20,7 +20,7 @@ Em Extensions do Visual Studio Code, busque e instale pela extenção *denoland.
 Agora no seu terminal, digite:
 
 `
-    deno run --allow-net main.ts
+    deno run --allow-net src/main.ts
 `
 
 Após receber a mensagem de *Servidor Iniciado*, acesse o link exibido no terminal ou o link abaixo (Configuração padrão).
