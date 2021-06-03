@@ -1,7 +1,7 @@
 # Fluxo de trabalho de Gitflow
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailton-cruz-766004125) ![JavaScript Developer](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript Developer](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
 [Fonte de estudo](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
-
 
 ## Projeto
 
